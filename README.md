@@ -1,2 +1,2 @@
-Hi, I'm [Risman ] 👋
+Hi, I'm Risman  👋
 **Manual Software Quality Assurance Engineer**
