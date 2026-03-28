@@ -1,13 +1,6 @@
-Hi, I'm ![*Risman Ahmad Haeruman*](googlechrome/github-header-baner.png)
-**_Manual Software Quality Assurance Engineer_**
+Hi, I'm 
+ ![*Risman Ahmad Haeruman*](googlechrome/github-header-baner.png)
 
-<img src="https://giphy.com/gifs/pudgypenguins-monday-wake-up-mondays-JUm3Spkvz0ofUmNXP6"/>
-
-- 🛠️ **What I do:** Manual Testing, Bug Reporting, Test Case Execution, and API Testing.
-- 🎯 **Focus:** Functional, Usability, and Regression Testing.
-- 📧 **Connect with me:** [rahmadhaeruman@gmail.com]
-
----
 ### Skills & Tools
 <centre><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 <img src="https://img.shields.io/badge/Google%20Docs-4285F4?style=for-the-badge&logo=google-docs&logoColor=white"/> <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white"/> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/> 
