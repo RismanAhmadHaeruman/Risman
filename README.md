@@ -1,4 +1,4 @@
-Hi, I'm ![*Risman Ahmad Haeruman*](github-header-baner.png).  👋
+Hi, I'm ![*Risman Ahmad Haeruman*](download/github-header-baner.png).  👋
 **_Manual Software Quality Assurance Engineer_**
 
 <img src="https://giphy.com/gifs/pudgypenguins-monday-wake-up-mondays-JUm3Spkvz0ofUmNXP6"/>
@@ -14,8 +14,9 @@ Hi, I'm ![*Risman Ahmad Haeruman*](github-header-baner.png).  👋
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/> <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></centre>
 
 ### My Github Stats
-![Risman Ahmad Haeruman GitHub stats](https://github-readme-stats.vercel.app/api?username=RismanAhmadHaeruman&hide=contribs,prs)
 
+[![Risman Ahmad Haeruman GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[!Risman Ahmad Haeruman GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 ### Play Game Whit Me
 
