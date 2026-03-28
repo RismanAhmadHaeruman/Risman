@@ -13,17 +13,9 @@ Hi, I'm ![*Risman Ahmad Haeruman*](github-header-baner.png).  👋
 <img src="https://img.shields.io/badge/Google%20Docs-4285F4?style=for-the-badge&logo=google-docs&logoColor=white"/> <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white"/> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/> 
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/> <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></centre>
 
-### My Github Stats
+###My Github Stats
+![Risman Ahmad Haeruman GitHub stats](https://github-readme-stats.vercel.app/api?username=Risman Ahmad Haeruman&hide=contribs,prs)
 
-![Risman Ahmad Haeruman GitHub stats](https://github-readme-stats.vercel.app/api?username=RismanAhmadHaeruman&show_icons=true&theme=radical)
-
-
-### Stats
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"/>
-  <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"/>
-</div>
 
 ### Play Game Whit Me
 
