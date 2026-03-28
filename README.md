@@ -15,8 +15,7 @@ Hi, I'm ![*Risman Ahmad Haeruman*](download/github-header-baner.png).  👋
 
 ### My Github Stats
 
-[![Risman Ahmad Haeruman GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[!Risman Ahmad Haeruman GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Risman Ahmad Haeruman GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)]
 
 ### Play Game Whit Me
 
