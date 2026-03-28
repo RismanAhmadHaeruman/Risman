@@ -1,4 +1,4 @@
-Hi, I'm ![*Risman Ahmad Haeruman*](DiIpadsaya/googlechrome/github-header-baner.png).  👋
+Hi, I'm ![*Risman Ahmad Haeruman*](googlechrome/github-header-baner.png)
 **_Manual Software Quality Assurance Engineer_**
 
 <img src="https://giphy.com/gifs/pudgypenguins-monday-wake-up-mondays-JUm3Spkvz0ofUmNXP6"/>
