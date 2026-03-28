@@ -1,7 +1,7 @@
 Hi, I'm ![*Risman Ahmad Haeruman*](github-header-baner.png).  👋
 **_Manual Software Quality Assurance Engineer_**
 
-![happy](https://giphy.com/gifs/pudgypenguins-monday-wake-up-mondays-JUm3Spkvz0ofUmNXP6)
+<img src="https://giphy.com/gifs/pudgypenguins-monday-wake-up-mondays-JUm3Spkvz0ofUmNXP6"/>
 
 - 🛠️ **What I do:** Manual Testing, Bug Reporting, Test Case Execution, and API Testing.
 - 🎯 **Focus:** Functional, Usability, and Regression Testing.
@@ -31,8 +31,8 @@ Hi, I'm ![*Risman Ahmad Haeruman*](github-header-baner.png).  👋
 ### Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"/>
+  <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"/>
 </div>
 
 ### Play Game Whit Me
