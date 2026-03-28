@@ -15,7 +15,7 @@ Hi, I'm ![*Risman Ahmad Haeruman*](download/github-header-baner.png).  👋
 
 ### My Github Stats
 
-[![Risman Ahmad Haeruman GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)]
+![Risman Ahmad Haeruman GitHub stats](https://github-readme-stats.vercel.app/api?username=RismanAhmadHaeruman)
 
 ### Play Game Whit Me
 
