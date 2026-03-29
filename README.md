@@ -1,4 +1,6 @@
 ### Hi, I'm Risman Ahmad Haeruman 
+##### *QA Engineer | Manual &*
+##### *Automation Testing Specialist*
  ![*Risman Ahmad Haeruman*](readme.md/github-header-baner.png)
 
 ### Skills & Tools
