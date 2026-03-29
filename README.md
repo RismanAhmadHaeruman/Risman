@@ -1,9 +1,6 @@
-### Hi, I'm Risman Ahmad Haeruman 
-##### *QA Engineer | Manual &*
-##### *Automation Testing Specialist*
- ![*Risman Ahmad Haeruman*](readme.md/github-header-baner.png)
+## Hi, I'm Risman Ahmad Haeruman 
 
-# 🔍 QA Engineer Portfolio
+### 🔍 QA Engineer Portfolio
 **Ensuring Quality. Enhancing Reliability. Automating Excellence.**
 
 ![QA Engineer](https://img.shields.io/badge/Role-QA_Engineer-blue?style=for-the-badge)
@@ -16,6 +13,23 @@ I am a Quality Assurance Engineer with a passion for finding edge cases and buil
 * **Manual Testing:** Test Case Design, Bug Reporting, Exploratory Testing.
 * **Automation:** Page Object Model (POM), Keyword-Driven, and Data-Driven frameworks.
 * **CI/CD:** Integrating automated tests into GitHub Actions/GitLab CI.
+
+<div align="center">
+  <h1>✨ [Nama Anda] | Quality Assurance ✨</h1>
+  <p><i>Manual Precision & Automation Speed</i></p>
+
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=Cypress&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white" />
+</div>
+
+<br />
+
+### 🛠 Expertise:
+- 🧪 **Manual:** System Testing, UAT, Mobile & Web Testing.
+- ⚙️ **Automation:** Framework development from scratch, Script Maintenance.
+- 📡 **API:** Functional and Performance testing.
 
 ### Skills & Tools
 <centre><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
