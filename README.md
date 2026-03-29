@@ -1,8 +1,7 @@
 ## Hi, I'm Risman Ahmad Haeruman 
 
 ### 🔍 QA Engineer Portfolio
-**Ensuring Quality. Enhancing Reliability. Automating Excellence.**
-
+*Ensuring Quality. Enhancing Reliability. Automating Excellence.*
 ![QA Engineer](https://img.shields.io/badge/Role-QA_Engineer-blue?style=for-the-badge)
 ![Automation](https://img.shields.io/badge/Focus-Automation_%26_Manual-green?style=for-the-badge)
 
