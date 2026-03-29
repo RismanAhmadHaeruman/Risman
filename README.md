@@ -15,7 +15,7 @@ I am a Quality Assurance Engineer with a passion for finding edge cases and buil
 * **CI/CD:** Integrating automated tests into GitHub Actions/GitLab CI.
 
 <div align="center">
-  <h1>✨ [Nama Anda] | Quality Assurance ✨</h1>
+  <h1>✨ Risman Ahmad Haeruman | Quality Assurance ✨</h1>
   <p><i>Manual Precision & Automation Speed</i></p>
 
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white" />
@@ -23,7 +23,6 @@ I am a Quality Assurance Engineer with a passion for finding edge cases and buil
   <img src="https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=Cypress&logoColor=white" />
   <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white" />
 </div>
-
 <br />
 
 ### 🛠 Expertise:
